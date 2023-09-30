@@ -1,4 +1,4 @@
 # SHL-Project
-![Project-UI](https://github.com/Akshat338/SHL-Project/assets/91428402/aab60943-e936-4ef1-bd40-99e1f4c79acc)
-![Project-UI-2](https://github.com/Akshat338/SHL-Project/assets/91428402/3e1af477-fabe-4f63-b3a6-c34249df5061)
-![Project-Backend](https://github.com/Akshat338/SHL-Project/assets/91428402/854c3a95-acfb-4448-b872-e05bf65df753)
+![Project-UI](https://github.com/Akshat338/SHL-Project/assets/91428402/ab29ade3-0a0f-482e-82c2-4b94c58cf56b)
+![Project-UI-2](https://github.com/Akshat338/SHL-Project/assets/91428402/d4abe73a-5ab0-4147-976d-2eb85d1e8960)
+![Project-Backend](https://github.com/Akshat338/SHL-Project/assets/91428402/6546e9be-b510-4cfa-bdd7-b350bc7e47d7)
