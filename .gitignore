@@ -1,0 +1,40 @@
+backend/__pycache__
+.vscode
+backend/.venv
+backend/virtualenv/
+backend/.pytest_cache/
+
+
+# dependencies
+frontend/shl-project-viewer-app/node_modules
+frontend/shl-project-viewer-app/.pnp
+frontend/shl-project-viewer-app/.pnp.js
+
+# testing
+frontend/shl-project-viewer-app/coverage
+
+# next.js
+frontend/shl-project-viewer-app/.next/
+frontend/shl-project-viewer-app/out/
+
+# production
+frontend/shl-project-viewer-app/build
+
+# misc
+frontend/shl-project-viewer-app/.DS_Store
+frontend/shl-project-viewer-app/*.pem
+
+# debug
+frontend/shl-project-viewer-app/npm-debug.log*
+frontend/shl-project-viewer-app/yarn-debug.log*
+frontend/shl-project-viewer-app/yarn-error.log*
+
+# local env files
+frontend/shl-project-viewer-app/.env*.local
+
+# vercel
+frontend/shl-project-viewer-app/.vercel
+
+# typescript
+frontend/shl-project-viewer-app/*.tsbuildinfo
+frontend/shl-project-viewer-app/next-env.d.ts
